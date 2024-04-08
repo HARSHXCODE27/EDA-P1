@@ -1,2 +1,2 @@
 # EDA-P1
-First GIT Repo
+This is the first project on exploratory data analysis [eda] using python.
